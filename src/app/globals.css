@@ -1,26 +1,115 @@
 @import "tailwindcss";
 
+@theme {
+  --font-sans: var(--font-sans), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serif: var(--font-serif), Georgia, Cambria, "Times New Roman", Times, serif;
+  
+  --color-ivory-100: #faf8f5;
+  --color-ivory-200: #f4f0e8;
+  --color-sandstone-300: #e8ded2;
+  --color-sandstone-400: #d8c9b4;
+  --color-sandstone-500: #b8a68f;
+  --color-olive-500: #777b65;
+  --color-olive-600: #5e624e;
+  --color-charcoal-800: #353831;
+  --color-charcoal-900: #292b26;
+  --color-charcoal-950: #1a1c18;
+  
+  --color-gold-400: #e0c7a6;
+  --color-gold-500: #c5a880;
+  --color-gold-600: #a6865d;
+  --color-stone-925: #101215;
+  --color-stone-950: #0a0b0d;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #0a0b0d;
+  --foreground: #f4f0e8;
+  --color-ivory: #f4f0e8;
+  --color-sandstone: #d8c9b4;
+  --color-olive: #777b65;
+  --color-charcoal: #292b26;
+  --accent-gold: #c5a880;
+  --accent-gold-light: #e0c7a6;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
+  color-scheme: dark;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #0a0b0d;
+  color: #f4efe6;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
 }
+
+/* Fix for Next.js Image fill containers */
+.img-container-relative {
+  position: relative !important;
+}
+
+/* Selection styling */
+::selection {
+  background-color: #c5a880;
+  color: #0a0b0d;
+}
+
+/* Custom sleek architectural scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0b0d;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a2f35;
+  border-radius: 4px;
+  border: 2px solid #0a0b0d;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c5a880;
+}
+
+/* Keyframe animations */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 35s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+
+@keyframes pulse-subtle {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(1.05);
+  }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 4s ease-in-out infinite;
+}
+

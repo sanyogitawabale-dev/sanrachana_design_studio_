@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldGradMark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E0C7A6" />
+      <stop offset="50%" stop-color="#C5A880" />
+      <stop offset="100%" stop-color="#99794E" />
+    </linearGradient>
+    <linearGradient id="darkBgMark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141619" />
+      <stop offset="100%" stop-color="#0A0B0D" />
+    </linearGradient>
+  </defs>
+
+  <!-- Architectural outer drafting box -->
+  <rect x="5" y="5" width="90" height="90" rx="4" fill="url(#darkBgMark)" stroke="url(#goldGradMark)" stroke-width="2" />
+  <rect x="12" y="12" width="76" height="76" rx="2" fill="none" stroke="#C5A880" stroke-width="1" stroke-dasharray="3 3" opacity="0.6" />
+  
+  <!-- Spatial architectural grid lines -->
+  <line x1="12" y1="50" x2="88" y2="50" stroke="#C5A880" stroke-width="1" opacity="0.4" />
+  <line x1="50" y1="12" x2="50" y2="88" stroke="#C5A880" stroke-width="1" opacity="0.4" />
+
+  <!-- Devanagari Emblazoned Mark: 'सं' -->
+  <text x="50" y="58" text-anchor="middle" dominant-baseline="central" fill="#F4EFE6" font-size="42" font-family="'Cinzel', 'Georgia', serif" font-weight="700" letter-spacing="1">
+    सं
+  </text>
+  
+  <!-- Golden coordinate dot -->
+  <circle cx="50" cy="24" r="3.5" fill="#E0C7A6" />
+</svg>

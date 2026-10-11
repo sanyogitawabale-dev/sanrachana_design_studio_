@@ -1,0 +1,89 @@
+{
+  "lastAudited": "2026-10-10T21:48:00Z",
+  "instagramProfile": "https://www.instagram.com/sanrachana_design_studio_/",
+  "totalPostsCataloged": 8,
+  "totalReelsCataloged": 4,
+  "mediaStatus": {
+    "embeddedInstagramPosts": 8,
+    "embeddedInstagramReels": 4,
+    "localCustomDropDirectories": [
+      "public/portfolio/instagram/",
+      "public/videos/reels/",
+      "public/images/"
+    ]
+  },
+  "assetSlots": [
+    {
+      "postId": "post-cabin-interior-thane",
+      "expectedLocalPath": "public/portfolio/instagram/cabin-interior-thane.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "postId": "post-jewellery-showroom-retail",
+      "expectedLocalPath": "public/portfolio/instagram/jewellery-showroom.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "postId": "post-dining-kitchen-suite",
+      "expectedLocalPath": "public/portfolio/instagram/dining-suite.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "postId": "post-monolith-villa-facade",
+      "expectedLocalPath": "public/portfolio/instagram/monolith-villa.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "postId": "post-serene-penthouse-living",
+      "expectedLocalPath": "public/portfolio/instagram/serene-penthouse.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "postId": "post-3d-elevation-twilight",
+      "expectedLocalPath": "public/portfolio/instagram/twilight-elevation.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "postId": "post-minimalist-courtyard-bungalow",
+      "expectedLocalPath": "public/portfolio/instagram/courtyard-bungalow.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "postId": "post-master-bedroom-sanctuary",
+      "expectedLocalPath": "public/portfolio/instagram/master-suite.jpg",
+      "fallbackCdnUrl": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "status": "active-with-cdn-fallback"
+    },
+    {
+      "reelId": "reel-contemporary-facade",
+      "expectedLocalPath": "public/videos/reels/villa-facade.mp4",
+      "fallbackPostUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "status": "active-linked-to-instagram-reel"
+    },
+    {
+      "reelId": "reel-penthouse-interior",
+      "expectedLocalPath": "public/videos/reels/penthouse-interior.mp4",
+      "fallbackPostUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "status": "active-linked-to-instagram-reel"
+    },
+    {
+      "reelId": "reel-site-transformation",
+      "expectedLocalPath": "public/videos/reels/site-transformation.mp4",
+      "fallbackPostUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "status": "active-linked-to-instagram-reel"
+    },
+    {
+      "reelId": "reel-cabin-commercial",
+      "expectedLocalPath": "public/videos/reels/cabin-commercial.mp4",
+      "fallbackPostUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "status": "active-linked-to-instagram-reel"
+    }
+  ]
+}

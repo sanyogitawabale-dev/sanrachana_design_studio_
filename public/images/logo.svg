@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E0C7A6" />
+      <stop offset="50%" stop-color="#C5A880" />
+      <stop offset="100%" stop-color="#99794E" />
+    </linearGradient>
+    <linearGradient id="darkBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141619" />
+      <stop offset="100%" stop-color="#0A0B0D" />
+    </linearGradient>
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background container for mark -->
+  <g transform="translate(15, 15)">
+    <!-- Architectural outer drafting box -->
+    <rect x="0" y="0" width="90" height="90" rx="4" fill="url(#darkBg)" stroke="url(#goldGrad)" stroke-width="2" />
+    <rect x="8" y="8" width="74" height="74" rx="2" fill="none" stroke="#C5A880" stroke-width="1" stroke-dasharray="3 3" opacity="0.5" />
+    
+    <!-- Spatial architectural axis lines -->
+    <line x1="8" y1="45" x2="82" y2="45" stroke="#C5A880" stroke-width="1" opacity="0.4" />
+    <line x1="45" y1="8" x2="45" y2="82" stroke="#C5A880" stroke-width="1" opacity="0.4" />
+
+    <!-- Devanagari Emblazoned Mark: 'सं' -->
+    <text x="45" y="54" text-anchor="middle" dominant-baseline="central" fill="#F4EFE6" font-size="40" font-family="'Cinzel', 'Georgia', serif" font-weight="700" letter-spacing="1">
+      सं
+    </text>
+    
+    <!-- Golden coordinate point -->
+    <circle cx="45" cy="22" r="3.5" fill="#E0C7A6" />
+  </g>
+
+  <!-- Studio Typography Text Group -->
+  <g transform="translate(125, 30)">
+    <!-- Main Studio Name -->
+    <text x="0" y="32" fill="#F4EFE6" font-size="28" font-family="'Cinzel', 'Georgia', serif" font-weight="500" letter-spacing="2">
+      SANRACHANA
+    </text>
+    
+    <!-- Studio Tag -->
+    <text x="210" y="32" fill="#C5A880" font-size="18" font-family="'Cinzel', 'Georgia', serif" font-weight="300" letter-spacing="3">
+      STUDIO
+    </text>
+
+    <!-- Devanagari Subtitle & Discipline -->
+    <text x="2" y="58" fill="#E0C7A6" font-size="14" font-family="'Plus Jakarta Sans', sans-serif" font-weight="300" letter-spacing="4">
+      संरचना DESIGN STUDIO
+    </text>
+
+    <text x="2" y="74" fill="#8C827A" font-size="9" font-family="'Plus Jakarta Sans', sans-serif" font-weight="400" letter-spacing="2">
+      ARCHITECTURE • INTERIOR DESIGN • 3D ELEVATION
+    </text>
+  </g>
+</svg>

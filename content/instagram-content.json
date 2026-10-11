@@ -1,0 +1,281 @@
+{
+  "account": {
+    "handle": "@sanrachana_design_studio_",
+    "displayName": "संरचना Design Studio",
+    "profileUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+    "postCount": 107,
+    "location": "Kalwa, Thane, Maharashtra, India",
+    "specializations": [
+      "Architectural Design & Planning",
+      "Cabin & Commercial Interiors",
+      "Dining & Living Room Spatial Planning",
+      "Luxury Jewellery & Retail Showroom Interiors",
+      "3D Facade & Twilight Elevation Visualization",
+      "Turnkey Execution & Site Supervision"
+    ],
+    "bioSummary": "Architecture & Interior Design Practice | Creating functional, sustainable, and aesthetic spaces | Kalwa, Thane"
+  },
+  "posts": [
+    {
+      "id": "post-cabin-interior-thane",
+      "title": "Executive Cabin Interior & Millwork",
+      "hindiTitle": "कार्यकारी केबिन आंतरिक सज्जा",
+      "category": "commercial",
+      "categoryLabel": "Cabin & Commercial",
+      "mediaType": "image",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "Custom executive cabin interior featuring fluted acoustic wood paneling, ergonomic bespoke desk architecture, integrated warm profile illumination, and clean spatial minimalism.",
+      "location": "Kalwa, Thane",
+      "year": "2024",
+      "area": "450 sq. ft.",
+      "scope": ["Cabin Interior", "Acoustic Wood Paneling", "Custom Millwork", "Profile Lighting"],
+      "coverImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/cabin-interior-thane.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "featured": true,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "landscape",
+      "gridSpan": "col-span-1"
+    },
+    {
+      "id": "post-jewellery-showroom-retail",
+      "title": "Boutique Jewellery Showroom & Retail Space",
+      "hindiTitle": "ज्वैलरी शोरूम और खुदरा स्थान",
+      "category": "commercial",
+      "categoryLabel": "Jewellery & Retail",
+      "mediaType": "carousel",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "High-end retail interior designed for a luxury jewellery showroom with custom glass display counters, precision spotlighting (CRI 95+ for gemstone clarity), and velvet-lined private consultation pods.",
+      "location": "Thane City",
+      "year": "2024",
+      "area": "1,200 sq. ft.",
+      "scope": ["Retail Architecture", "Display Counter Millwork", "Security Zoning", "Gemstone Lighting"],
+      "coverImage": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/jewellery-showroom.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "featured": true,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "landscape",
+      "gridSpan": "col-span-1"
+    },
+    {
+      "id": "post-dining-kitchen-suite",
+      "title": "Dining Room & Gourmet Island Architecture",
+      "hindiTitle": "भोजन कक्ष और मॉड्यूलर किचन",
+      "category": "interior",
+      "categoryLabel": "Dining & Kitchen",
+      "mediaType": "image",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "Open-concept dining and island suite crafted with Italian Statuario marble, custom brass-framed fluted glass partition, concealed cove illumination, and bespoke 8-seater dining table.",
+      "location": "Thane Enclave",
+      "year": "2024",
+      "area": "850 sq. ft.",
+      "scope": ["Dining Interior", "Island Kitchen", "Glass Partition", "Mood Lighting"],
+      "coverImage": "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/dining-suite.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "featured": true,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "landscape",
+      "gridSpan": "col-span-1"
+    },
+    {
+      "id": "post-monolith-villa-facade",
+      "title": "The Monolith Villa & 3D Facade Elevation",
+      "hindiTitle": "द मोनोलिथ विला 3D एलिवेशन",
+      "category": "residential",
+      "categoryLabel": "Residential Architecture",
+      "mediaType": "carousel",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "Contemporary 4,800 sq. ft. private bungalow elevation study featuring cantilevered upper slabs, raw concrete fluting, basalt stone cladding, and double-height glazed foyer.",
+      "location": "Pune / Suburban Greens",
+      "year": "2024",
+      "area": "4,800 sq. ft.",
+      "scope": ["Architectural Planning", "3D Elevation", "Facade Lighting", "Landscape Integration"],
+      "coverImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/monolith-villa.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "beforeAfter": {
+        "beforeImage": "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
+        "afterImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+        "beforeLabel": "Raw RCC Framework on Site",
+        "afterLabel": "Finished Facade Architecture",
+        "title": "Villa Facade Transformation"
+      },
+      "featured": true,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "landscape",
+      "gridSpan": "col-span-2"
+    },
+    {
+      "id": "post-serene-penthouse-living",
+      "title": "Serene Sanctuary Penthouse Living",
+      "hindiTitle": "पेंटहाउस लिविंग लाउंज",
+      "category": "interior",
+      "categoryLabel": "Luxury Interior",
+      "mediaType": "image",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "Neutral Japandi-inspired 3BHK penthouse interior featuring warm micro-cement wall coatings, custom fluted teak paneling, bronze-accented shelving, and floor-to-ceiling glass fenestrations.",
+      "location": "Skyline Heights, Thane",
+      "year": "2024",
+      "area": "3,200 sq. ft.",
+      "scope": ["Interior Architecture", "Micro-cement Finishes", "Custom Millwork", "Turnkey Handover"],
+      "coverImage": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/serene-penthouse.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "beforeAfter": {
+        "beforeImage": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80",
+        "afterImage": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+        "beforeLabel": "Demolition & Bare Shell State",
+        "afterLabel": "Completed Japandi Living Suite",
+        "title": "Penthouse Living Transformation"
+      },
+      "featured": true,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "landscape",
+      "gridSpan": "col-span-1"
+    },
+    {
+      "id": "post-3d-elevation-twilight",
+      "title": "Twilight Facade 3D Visualization",
+      "hindiTitle": "ट्वाइलाइट 3D एलिवेशन सिमुलेशन",
+      "category": "3d-visualization",
+      "categoryLabel": "3D Elevation & Renders",
+      "mediaType": "carousel",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "Photorealistic 3D exterior visualization simulating golden hour and twilight illumination on modern multi-tier duplex residential architecture.",
+      "location": "Urban Enclave",
+      "year": "2024",
+      "area": "3,800 sq. ft.",
+      "scope": ["3D Exterior Elevation", "Twilight Rendering", "Material Moodboarding"],
+      "coverImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/twilight-elevation.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "featured": true,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "landscape",
+      "gridSpan": "col-span-2"
+    },
+    {
+      "id": "post-minimalist-courtyard-bungalow",
+      "title": "Courtyard Residence & Vernacular Layout",
+      "hindiTitle": "आंगन निवास और वास्तु योजना",
+      "category": "residential",
+      "categoryLabel": "Residential Architecture",
+      "mediaType": "image",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "Vastu-harmonized 4BHK bungalow designed around a central open-to-sky courtyard with terracotta jali screens and passive micro-climate cooling channels.",
+      "location": "Garden District",
+      "year": "2023",
+      "area": "4,200 sq. ft.",
+      "scope": ["Vastu Planning", "Architectural Blueprints", "Landscape Coordination"],
+      "coverImage": "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/courtyard-bungalow.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "featured": false,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "landscape",
+      "gridSpan": "col-span-1"
+    },
+    {
+      "id": "post-master-bedroom-sanctuary",
+      "title": "Master Bedroom Suite & Ambient Lighting",
+      "hindiTitle": "मास्टर बेडरूम सुइट",
+      "category": "interior",
+      "categoryLabel": "Luxury Interior",
+      "mediaType": "image",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "verifiedCaption": "Bespoke master suite with padded fabric bedhead wall, brushed bronze bedside pendants, integrated walk-in wardrobe partition, and concealed warm cove light channels.",
+      "location": "Riverside Promenade",
+      "year": "2024",
+      "area": "620 sq. ft.",
+      "scope": ["Master Suite", "Walk-in Wardrobe", "Lighting Automation", "Custom Bedhead"],
+      "coverImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+      "localImagePath": "/portfolio/instagram/master-suite.jpg",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=80",
+        "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&w=1600&q=80"
+      ],
+      "beforeAfter": {
+        "beforeImage": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80",
+        "afterImage": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+        "beforeLabel": "Raw Flat Layout Before",
+        "afterLabel": "Master Bedroom Luxury Handover",
+        "title": "Bedroom Spatial Overhaul"
+      },
+      "featured": false,
+      "verificationStatus": "verified-specialization",
+      "aspectRatio": "portrait",
+      "gridSpan": "col-span-1"
+    }
+  ],
+  "reels": [
+    {
+      "id": "reel-contemporary-facade",
+      "title": "Villa Facade & Elevation Reel",
+      "category": "Architecture Walkthrough",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "duration": "0:45",
+      "views": "1.8k Views",
+      "coverImage": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "localVideoPath": "/videos/reels/villa-facade.mp4",
+      "caption": "Full exterior elevation pan, stone cladding details, cantilevered pergolas, and twilight ambient lighting."
+    },
+    {
+      "id": "reel-penthouse-interior",
+      "title": "Luxury Penthouse Living & Gourmet Island Reel",
+      "category": "Interior Walkthrough",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "duration": "0:52",
+      "views": "2.4k Views",
+      "coverImage": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80",
+      "localVideoPath": "/videos/reels/penthouse-interior.mp4",
+      "caption": "Calacatta marble island, concealed LED cove transitions, and custom walnut fluted wall paneling."
+    },
+    {
+      "id": "reel-site-transformation",
+      "title": "Site Transformation: Raw Demolition to Finish",
+      "category": "Transformation Reel",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "duration": "0:38",
+      "views": "3.1k Views",
+      "coverImage": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80",
+      "localVideoPath": "/videos/reels/site-transformation.mp4",
+      "caption": "Step-by-step on-site execution recap from bare RCC framework to bespoke residential handover."
+    },
+    {
+      "id": "reel-cabin-commercial",
+      "title": "Executive Cabin Interior Walkthrough",
+      "category": "Commercial Walkthrough",
+      "postUrl": "https://www.instagram.com/sanrachana_design_studio_/",
+      "duration": "0:30",
+      "views": "1.5k Views",
+      "coverImage": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=800&q=80",
+      "localVideoPath": "/videos/reels/cabin-commercial.mp4",
+      "caption": "Acoustic spatial zoning, custom executive desk, and warm profile lighting for boutique workspaces."
+    }
+  ]
+}
